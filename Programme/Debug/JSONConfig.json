@@ -1,0 +1,6 @@
+{
+    "database":"videogames",
+    "user":"root",
+    "password":"",
+	"serverIP":"127.0.0.1"
+}
