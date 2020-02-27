@@ -1,0 +1,13 @@
+Pour reporter un bug :
+
+Aller dans l'onglet "Issues".
+
+1. Dans le champ "title", indiquer un résumé du bug trouvé.
+2. Indiquer un label pour le cas (bug, enhancement...)
+3. Dans le champ "Write", indiquer :
+ - les étapes qui permettent de reproduire le cas
+ - le comportement attendu
+ - le comportement constaté ainsi qu'un screenshot avec l'erreur
+ - l'environnement sur lequel le cas s'est produit (exemple : MySQL5.7.21, Windows 10, Visual Studio 2017)
+ 
+Plus le cas sera détaillé et précis, plus il sera facilement reproductible et donc corrigé rapidement.
